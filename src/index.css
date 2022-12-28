@@ -1,0 +1,30 @@
+
+
+.container{
+  text-align: center;
+  border: 1px solid black;
+  /* display: inline-block; */
+  padding: 20px;
+  width: 400px;
+  margin: auto;
+  
+}
+p{
+  font-weight: bold;
+}
+button{
+  outline: none;
+  border: none;
+  margin: 5px;
+  padding: 7px;
+}
+.start{
+  background-color: green;
+
+}
+.stop{
+background-color: red;
+}
+.reset{
+background-color: yellow;
+}
